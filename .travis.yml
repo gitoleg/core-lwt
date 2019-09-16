@@ -20,4 +20,4 @@ addons:
     - aspcud
 
 env:
-  - OPAMYES=true PACKAGE=core-lwt OCAML_VERSION=4.05 TESTS=false EXTRA_REMOTES=git+https://github.com/BinaryAnalysisPlatform/opam-repository#testing
+  - OPAMYES=true PACKAGE=core_lwt OCAML_VERSION=4.05 TESTS=false EXTRA_REMOTES=git+https://github.com/BinaryAnalysisPlatform/opam-repository#testing
